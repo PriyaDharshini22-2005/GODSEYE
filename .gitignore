@@ -1,0 +1,21 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Build and runtime artifacts
+runs/
+logsfolder/
+inference/
+weights/
+
+# Local/config and OS files
+.config
+.DS_Store
+Thumbs.db
+
+# Large archives
+*.zip
